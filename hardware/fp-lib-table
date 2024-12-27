@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "RP2040_minimal")(type "KiCad")(uri "${KIPRJMOD}/PicoROM.pretty")(options "")(descr ""))
   (lib (name "TCA5404")(type "KiCad")(uri "${KIPRJMOD}/TCA5404/footprints.pretty")(options "")(descr ""))
+  (lib (name "UNIC")(type "KiCad")(uri "/home/tantos/unic_stuff/unic/lib")(options "")(descr ""))
 )
